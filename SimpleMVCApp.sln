@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMVCApp", "SimpleMVCApp\SimpleMVCApp.csproj", "{C5B35B5C-5DE5-4D94-93EC-3E3E1AFDED54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMVCApp.Data", "SimpleMVCApp.Data\SimpleMVCApp.Data.csproj", "{D663C19E-2069-4382-8C81-D6F5E7FB82E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMVCApp.Calculator", "SimpleMVCApp.Calculator\SimpleMVCApp.Calculator.csproj", "{24D4912F-7A76-47F8-9D88-BB1F72417EDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMVCApp.Calculator.Test", "SimpleMVCApp.Calculator.Test\SimpleMVCApp.Calculator.Test.csproj", "{638DD114-57CE-4771-9976-A34DC56783CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5B35B5C-5DE5-4D94-93EC-3E3E1AFDED54}.Debug|Any CPU.ActiveCfg = Test|Any CPU
+		{C5B35B5C-5DE5-4D94-93EC-3E3E1AFDED54}.Debug|Any CPU.Build.0 = Test|Any CPU
+		{C5B35B5C-5DE5-4D94-93EC-3E3E1AFDED54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5B35B5C-5DE5-4D94-93EC-3E3E1AFDED54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D663C19E-2069-4382-8C81-D6F5E7FB82E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D663C19E-2069-4382-8C81-D6F5E7FB82E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D663C19E-2069-4382-8C81-D6F5E7FB82E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D663C19E-2069-4382-8C81-D6F5E7FB82E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24D4912F-7A76-47F8-9D88-BB1F72417EDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D4912F-7A76-47F8-9D88-BB1F72417EDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D4912F-7A76-47F8-9D88-BB1F72417EDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D4912F-7A76-47F8-9D88-BB1F72417EDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{638DD114-57CE-4771-9976-A34DC56783CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{638DD114-57CE-4771-9976-A34DC56783CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{638DD114-57CE-4771-9976-A34DC56783CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{638DD114-57CE-4771-9976-A34DC56783CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://staal-it.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SimpleMVCApp\\SimpleMVCApp.csproj
+		SccProjectName1 = SimpleMVCApp
+		SccLocalPath1 = SimpleMVCApp
+		SccProjectUniqueName2 = SimpleMVCApp.Data\\SimpleMVCApp.Data.csproj
+		SccProjectName2 = SimpleMVCApp.Data
+		SccLocalPath2 = SimpleMVCApp.Data
+		SccProjectUniqueName3 = SimpleMVCApp.Calculator\\SimpleMVCApp.Calculator.csproj
+		SccProjectName3 = SimpleMVCApp.Calculator
+		SccLocalPath3 = SimpleMVCApp.Calculator
+		SccProjectUniqueName4 = SimpleMVCApp.Calculator.Test\\SimpleMVCApp.Calculator.Test.csproj
+		SccProjectName4 = SimpleMVCApp.Calculator.Test
+		SccLocalPath4 = SimpleMVCApp.Calculator.Test
+	EndGlobalSection
+EndGlobal
